@@ -1,0 +1,1095 @@
+{
+  "dataset": {
+    "file": "work/wos_demo.bib",
+    "n_docs": 709,
+    "year_start": 2015,
+    "year_end": 2026,
+    "n_authors": 443,
+    "n_journals": 15,
+    "n_countries": 19,
+    "n_institutions": 48,
+    "n_refs": 261,
+    "avg_citations": 18.28,
+    "avg_authors": 6.0,
+    "single_author": 35,
+    "doc_types": {
+      "Article": 599,
+      "Proceedings Paper": 34,
+      "Review": 76
+    }
+  },
+  "top_journals": [
+    {
+      "name": "remote sensing",
+      "docs": 125
+    },
+    {
+      "name": "ieee journal of selected topics in applied earth observations and remote sensing",
+      "docs": 78
+    },
+    {
+      "name": "remote sensing of environment",
+      "docs": 72
+    },
+    {
+      "name": "ieee transactions on geoscience and remote sensing",
+      "docs": 69
+    },
+    {
+      "name": "ieee geoscience and remote sensing letters",
+      "docs": 64
+    },
+    {
+      "name": "isprs journal of photogrammetry and remote sensing",
+      "docs": 52
+    },
+    {
+      "name": "international journal of applied earth observation and geoinformation",
+      "docs": 44
+    },
+    {
+      "name": "international journal of remote sensing",
+      "docs": 42
+    },
+    {
+      "name": "remote sensing letters",
+      "docs": 35
+    },
+    {
+      "name": "journal of applied remote sensing",
+      "docs": 32
+    },
+    {
+      "name": "giscience & remote sensing",
+      "docs": 30
+    },
+    {
+      "name": "international journal of digital earth",
+      "docs": 21
+    },
+    {
+      "name": "photogrammetric engineering and remote sensing",
+      "docs": 16
+    },
+    {
+      "name": "journal of hydrology",
+      "docs": 15
+    },
+    {
+      "name": "computers & geosciences",
+      "docs": 14
+    }
+  ],
+  "top_institutions": [
+    {
+      "name": "wuhan univ",
+      "authors": 466,
+      "docs": 340
+    },
+    {
+      "name": "aerosp informat res inst",
+      "authors": 218,
+      "docs": 188
+    },
+    {
+      "name": "remote sensing technol inst",
+      "authors": 141,
+      "docs": 125
+    },
+    {
+      "name": "china univ geosci",
+      "authors": 118,
+      "docs": 105
+    },
+    {
+      "name": "inst remote sensing & digital earth",
+      "authors": 110,
+      "docs": 102
+    },
+    {
+      "name": "tech univ munich",
+      "authors": 107,
+      "docs": 96
+    },
+    {
+      "name": "hong kong polytech univ",
+      "authors": 98,
+      "docs": 90
+    },
+    {
+      "name": "univ trento",
+      "authors": 92,
+      "docs": 82
+    },
+    {
+      "name": "sun yat sen univ",
+      "authors": 76,
+      "docs": 71
+    },
+    {
+      "name": "kth royal inst technol",
+      "authors": 75,
+      "docs": 73
+    },
+    {
+      "name": "univ maryland",
+      "authors": 74,
+      "docs": 43
+    },
+    {
+      "name": "univ twente",
+      "authors": 67,
+      "docs": 65
+    },
+    {
+      "name": "wageningen univ",
+      "authors": 56,
+      "docs": 52
+    },
+    {
+      "name": "univ grenoble alpes",
+      "authors": 52,
+      "docs": 47
+    },
+    {
+      "name": "natl univ def technol",
+      "authors": 52,
+      "docs": 48
+    }
+  ],
+  "top_countries": [
+    {
+      "name": "China",
+      "authors": 1397,
+      "docs": 633
+    },
+    {
+      "name": "Germany",
+      "authors": 310,
+      "docs": 244
+    },
+    {
+      "name": "Italy",
+      "authors": 165,
+      "docs": 142
+    },
+    {
+      "name": "Netherlands",
+      "authors": 131,
+      "docs": 116
+    },
+    {
+      "name": "France",
+      "authors": 95,
+      "docs": 85
+    },
+    {
+      "name": "Japan",
+      "authors": 84,
+      "docs": 78
+    },
+    {
+      "name": "Sweden",
+      "authors": 81,
+      "docs": 76
+    },
+    {
+      "name": "Canada",
+      "authors": 71,
+      "docs": 64
+    },
+    {
+      "name": "Spain",
+      "authors": 48,
+      "docs": 45
+    },
+    {
+      "name": "India",
+      "authors": 48,
+      "docs": 48
+    },
+    {
+      "name": "Switzerland",
+      "authors": 43,
+      "docs": 41
+    },
+    {
+      "name": "South Korea",
+      "authors": 40,
+      "docs": 40
+    },
+    {
+      "name": "United States of America",
+      "authors": 29,
+      "docs": 29
+    },
+    {
+      "name": "Iran",
+      "authors": 24,
+      "docs": 24
+    },
+    {
+      "name": "Singapore",
+      "authors": 23,
+      "docs": 23
+    }
+  ],
+  "top_authors": [
+    {
+      "name": "liu, xiaoping",
+      "h": 15,
+      "g": 24,
+      "m": 1.5,
+      "docs": 35
+    },
+    {
+      "name": "ban, yifang",
+      "h": 15,
+      "g": 22,
+      "m": 1.3636363636363635,
+      "docs": 39
+    },
+    {
+      "name": "bruzzone, lorenzo",
+      "h": 14,
+      "g": 21,
+      "m": 1.2727272727272727,
+      "docs": 38
+    },
+    {
+      "name": "huang, xin",
+      "h": 14,
+      "g": 27,
+      "m": 1.2727272727272727,
+      "docs": 34
+    },
+    {
+      "name": "chanussot, jocelyn",
+      "h": 14,
+      "g": 24,
+      "m": 1.1666666666666667,
+      "docs": 24
+    },
+    {
+      "name": "chen, jing",
+      "h": 14,
+      "g": 25,
+      "m": 1.1666666666666667,
+      "docs": 41
+    },
+    {
+      "name": "deng, jing",
+      "h": 14,
+      "g": 19,
+      "m": 1.1666666666666667,
+      "docs": 19
+    },
+    {
+      "name": "ghamisi, pedram",
+      "h": 13,
+      "g": 21,
+      "m": 1.4444444444444444,
+      "docs": 27
+    },
+    {
+      "name": "persello, claudio",
+      "h": 13,
+      "g": 19,
+      "m": 1.3,
+      "docs": 34
+    },
+    {
+      "name": "wang, lei",
+      "h": 13,
+      "g": 21,
+      "m": 1.1818181818181819,
+      "docs": 31
+    },
+    {
+      "name": "shi, wenzhong",
+      "h": 13,
+      "g": 20,
+      "m": 1.0833333333333333,
+      "docs": 38
+    },
+    {
+      "name": "wulder, michael",
+      "h": 13,
+      "g": 23,
+      "m": 1.0833333333333333,
+      "docs": 23
+    },
+    {
+      "name": "du, peijun",
+      "h": 12,
+      "g": 19,
+      "m": 1.5,
+      "docs": 34
+    },
+    {
+      "name": "yokoya, naoto",
+      "h": 12,
+      "g": 18,
+      "m": 1.5,
+      "docs": 33
+    },
+    {
+      "name": "schmitt, michael",
+      "h": 12,
+      "g": 19,
+      "m": 1.2,
+      "docs": 35
+    }
+  ],
+  "top_keywords": [
+    {
+      "name": "change detection",
+      "count": 709
+    },
+    {
+      "name": "remote sensing",
+      "count": 704
+    },
+    {
+      "name": "foundation model",
+      "count": 81
+    },
+    {
+      "name": "building change detection",
+      "count": 75
+    },
+    {
+      "name": "contrastive learning",
+      "count": 72
+    },
+    {
+      "name": "self-supervised learning",
+      "count": 70
+    },
+    {
+      "name": "transformer",
+      "count": 64
+    },
+    {
+      "name": "domain adaptation",
+      "count": 58
+    },
+    {
+      "name": "vision transformer",
+      "count": 57
+    },
+    {
+      "name": "fully convolutional network",
+      "count": 57
+    },
+    {
+      "name": "convolutional neural network",
+      "count": 57
+    },
+    {
+      "name": "deep learning",
+      "count": 56
+    },
+    {
+      "name": "siamese network",
+      "count": 55
+    },
+    {
+      "name": "self-attention",
+      "count": 52
+    },
+    {
+      "name": "cnn",
+      "count": 52
+    },
+    {
+      "name": "informal settlement mapping",
+      "count": 50
+    },
+    {
+      "name": "continual learning",
+      "count": 47
+    },
+    {
+      "name": "sentinel-2",
+      "count": 46
+    },
+    {
+      "name": "u-net",
+      "count": 45
+    },
+    {
+      "name": "earthquake damage assessment",
+      "count": 45
+    },
+    {
+      "name": "road network change detection",
+      "count": 44
+    },
+    {
+      "name": "mining area monitoring",
+      "count": 44
+    },
+    {
+      "name": "parameter efficient fine tuning",
+      "count": 42
+    },
+    {
+      "name": "forest disturbance detection",
+      "count": 42
+    },
+    {
+      "name": "explainable ai",
+      "count": 42
+    }
+  ],
+  "docs_per_year": {
+    "2015": 29,
+    "2016": 34,
+    "2017": 40,
+    "2018": 50,
+    "2019": 56,
+    "2020": 58,
+    "2021": 69,
+    "2022": 75,
+    "2023": 81,
+    "2024": 91,
+    "2025": 95,
+    "2026": 31
+  },
+  "health": [
+    {
+      "field": "Sources",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Abstracts",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Affiliation",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Author(s)",
+      "pct": "100.00%"
+    },
+    {
+      "field": "DOI",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Keywords - Authors",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Keywords - Plus",
+      "pct": "100.00%"
+    },
+    {
+      "field": "References",
+      "pct": "100.00%"
+    },
+    {
+      "field": "Year",
+      "pct": "100.00%"
+    }
+  ],
+  "rpys_peaks": [
+    {
+      "year": 2016,
+      "count": 30.0
+    }
+  ],
+  "bursts": [
+    {
+      "term": "continual learning",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "20.0586",
+      "total_count": "47"
+    },
+    {
+      "term": "parameter efficient fine tuning",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "17.7305",
+      "total_count": "42"
+    },
+    {
+      "term": "explainable ai",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "17.2102",
+      "total_count": "42"
+    },
+    {
+      "term": "segment anything model",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "16.3578",
+      "total_count": "39"
+    },
+    {
+      "term": "sentinel-2",
+      "start_year": "2015",
+      "end_year": "2020",
+      "length": "6",
+      "burst_strength": "15.9936",
+      "total_count": "46"
+    },
+    {
+      "term": "pretraining",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "14.9994",
+      "total_count": "37"
+    },
+    {
+      "term": "damage assessment",
+      "start_year": "2018",
+      "end_year": "2020",
+      "length": "3",
+      "burst_strength": "14.7392",
+      "total_count": "30"
+    },
+    {
+      "term": "semantic change detection",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "14.5629",
+      "total_count": "36"
+    },
+    {
+      "term": "few-shot learning",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "14.5629",
+      "total_count": "36"
+    },
+    {
+      "term": "landsat",
+      "start_year": "2015",
+      "end_year": "2020",
+      "length": "6",
+      "burst_strength": "14.1038",
+      "total_count": "41"
+    },
+    {
+      "term": "conditional random field",
+      "start_year": "2018",
+      "end_year": "2020",
+      "length": "3",
+      "burst_strength": "13.6981",
+      "total_count": "28"
+    },
+    {
+      "term": "bitemporal",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "13.6955",
+      "total_count": "34"
+    },
+    {
+      "term": "multimodal large language model",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "13.665",
+      "total_count": "33"
+    },
+    {
+      "term": "prompt learning",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "13.2228",
+      "total_count": "32"
+    },
+    {
+      "term": "knowledge distillation",
+      "start_year": "2021",
+      "end_year": "2023",
+      "length": "3",
+      "burst_strength": "12.8355",
+      "total_count": "32"
+    },
+    {
+      "term": "state space model",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "12.7826",
+      "total_count": "31"
+    },
+    {
+      "term": "open vocabulary",
+      "start_year": "2024",
+      "end_year": "2026",
+      "length": "3",
+      "burst_strength": "12.7826",
+      "total_count": "31"
+    },
+    {
+      "term": "object-based image analysis",
+      "start_year": "2015",
+      "end_year": "2020",
+      "length": "6",
+      "burst_strength": "12.6208",
+      "total_count": "37"
+    },
+    {
+      "term": "multispectral imagery",
+      "start_year": "2015",
+      "end_year": "2020",
+      "length": "6",
+      "burst_strength": "12.6208",
+      "total_count": "37"
+    },
+    {
+      "term": "post-classification comparison",
+      "start_year": "2015",
+      "end_year": "2017",
+      "length": "3",
+      "burst_strength": "12.6129",
+      "total_count": "22"
+    }
+  ],
+  "sleeping_beauties": [
+    {
+      "ref_id": "r_94",
+      "text": "Kirillov A, 2023, PROC CVPR, V0, P1",
+      "B": 147.0,
+      "t_a": 7,
+      "cm": 42
+    },
+    {
+      "ref_id": "r_8",
+      "text": "Bandara WGC, 2022, IEEE T GEOSCI REMOTE, V60, P1",
+      "B": 80.9938846153846,
+      "t_a": 6,
+      "cm": 38
+    },
+    {
+      "ref_id": "r_146",
+      "text": "Radford A, 2021, PROC ICML, V0, P8748",
+      "B": 73.19420372753707,
+      "t_a": 5,
+      "cm": 44
+    },
+    {
+      "ref_id": "r_26",
+      "text": "Chen K, 2021, IEEE T GEOSCI REMOTE, V59, P1",
+      "B": 62.11932208967503,
+      "t_a": 5,
+      "cm": 41
+    },
+    {
+      "ref_id": "r_0",
+      "text": "Bai T, 2021, ISPRS J PHOTOGRAMM, V178, P231",
+      "B": 57.82142857142857,
+      "t_a": 5,
+      "cm": 27
+    },
+    {
+      "ref_id": "r_67",
+      "text": "Guo Q, 2024, ISPRS J PHOTOGRAMM, V210, P1",
+      "B": 56.0,
+      "t_a": 8,
+      "cm": 14
+    },
+    {
+      "ref_id": "r_120",
+      "text": "Ma X, 2023, ISPRS J PHOTOGRAMM, V200, P1",
+      "B": 53.39999999999999,
+      "t_a": 7,
+      "cm": 17
+    },
+    {
+      "ref_id": "r_25",
+      "text": "Chen H, 2020, REMOTE SENS ENVIRON, V242, P111758",
+      "B": 52.205014430014444,
+      "t_a": 4,
+      "cm": 47
+    }
+  ],
+  "main_path": [
+    {
+      "step": 1,
+      "year": 2015,
+      "title": "Automatic forest disturbance detection with spectral mixture analysis and multitemporal SAR imagery",
+      "author": "Silva, Xin and Tang, Kai and Bovolo, Francesca and Gamba, Paolo"
+    },
+    {
+      "step": 2,
+      "year": 2016,
+      "title": "Multi-temporal post-disaster damage assessment via unsupervised clustering framework",
+      "author": "Woodcock, Curtis and Peng, Feng and Chen, Jian and Lin, Tao"
+    },
+    {
+      "step": 3,
+      "year": 2017,
+      "title": "A markov random field model for water body change detection using UAV aerial imagery",
+      "author": "Lin, Peng and Huang, Xin and Yang, Yan and Feng, Tao and Cheng, Mohamed"
+    },
+    {
+      "step": 4,
+      "year": 2022,
+      "title": "A self-supervised contrastive framework for change detection using Landsat-8 OLI imagery",
+      "author": "Wang, Elena and He, Lei"
+    }
+  ],
+  "topics": [
+    {
+      "topic": -1,
+      "count": 23,
+      "name": "-1_percent_urban_land_cover"
+    },
+    {
+      "topic": 0,
+      "count": 81,
+      "name": "0_urban_percent_regions_detection"
+    },
+    {
+      "topic": 1,
+      "count": 52,
+      "name": "1_road_network_percent_urban"
+    },
+    {
+      "topic": 2,
+      "count": 49,
+      "name": "2_cropland_percent_urban_detection"
+    },
+    {
+      "topic": 3,
+      "count": 47,
+      "name": "3_building_percent_urban_detection"
+    },
+    {
+      "topic": 4,
+      "count": 45,
+      "name": "4_earthquake_damage_assessment_percent"
+    },
+    {
+      "topic": 5,
+      "count": 44,
+      "name": "5_area_mining_monitoring_percent"
+    },
+    {
+      "topic": 6,
+      "count": 42,
+      "name": "6_disturbance_forest_percent_urban"
+    },
+    {
+      "topic": 7,
+      "count": 37,
+      "name": "7_flood_mapping_percent_urban"
+    },
+    {
+      "topic": 8,
+      "count": 31,
+      "name": "8_water_body_percent_urban"
+    },
+    {
+      "topic": 9,
+      "count": 30,
+      "name": "9_disaster_assessment_damage_post"
+    },
+    {
+      "topic": 10,
+      "count": 28,
+      "name": "10_coastline_percent_urban_detection"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster": 0,
+      "docs": 50
+    },
+    {
+      "cluster": 1,
+      "docs": 201
+    },
+    {
+      "cluster": 2,
+      "docs": 250
+    },
+    {
+      "cluster": 3,
+      "docs": 133
+    },
+    {
+      "cluster": 4,
+      "docs": 75
+    }
+  ],
+  "portfolio": [
+    {
+      "entity": "remote sensing",
+      "productivity": "125.0",
+      "impact_total": "2200.0",
+      "mean_impact": "17.6",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "ieee journal of selected topics in applied earth observations and remote sensing",
+      "productivity": "78.0",
+      "impact_total": "1754.0",
+      "mean_impact": "22.487179487179485",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "remote sensing of environment",
+      "productivity": "72.0",
+      "impact_total": "1403.0",
+      "mean_impact": "19.48611111111111",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "ieee transactions on geoscience and remote sensing",
+      "productivity": "69.0",
+      "impact_total": "1041.0",
+      "mean_impact": "15.08695652173913",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "ieee geoscience and remote sensing letters",
+      "productivity": "64.0",
+      "impact_total": "1349.0",
+      "mean_impact": "21.078125",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "isprs journal of photogrammetry and remote sensing",
+      "productivity": "52.0",
+      "impact_total": "1320.0",
+      "mean_impact": "25.384615384615383",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "international journal of applied earth observation and geoinformation",
+      "productivity": "44.0",
+      "impact_total": "857.0",
+      "mean_impact": "19.477272727272727",
+      "quadrant": "Stars"
+    },
+    {
+      "entity": "international journal of remote sensing",
+      "productivity": "42.0",
+      "impact_total": "415.0",
+      "mean_impact": "9.880952380952381",
+      "quadrant": "Mature/Core"
+    },
+    {
+      "entity": "remote sensing letters",
+      "productivity": "35.0",
+      "impact_total": "336.0",
+      "mean_impact": "9.6",
+      "quadrant": "Marginal"
+    },
+    {
+      "entity": "journal of applied remote sensing",
+      "productivity": "32.0",
+      "impact_total": "646.0",
+      "mean_impact": "20.1875",
+      "quadrant": "Emerging"
+    },
+    {
+      "entity": "giscience & remote sensing",
+      "productivity": "30.0",
+      "impact_total": "339.0",
+      "mean_impact": "11.3",
+      "quadrant": "Marginal"
+    },
+    {
+      "entity": "international journal of digital earth",
+      "productivity": "21.0",
+      "impact_total": "335.0",
+      "mean_impact": "15.952380952380953",
+      "quadrant": "Marginal"
+    },
+    {
+      "entity": "photogrammetric engineering and remote sensing",
+      "productivity": "16.0",
+      "impact_total": "291.0",
+      "mean_impact": "18.1875",
+      "quadrant": "Marginal"
+    },
+    {
+      "entity": "journal of hydrology",
+      "productivity": "15.0",
+      "impact_total": "287.0",
+      "mean_impact": "19.133333333333333",
+      "quadrant": "Marginal"
+    },
+    {
+      "entity": "computers & geosciences",
+      "productivity": "14.0",
+      "impact_total": "387.0",
+      "mean_impact": "27.642857142857142",
+      "quadrant": "Marginal"
+    }
+  ],
+  "top_refs": [
+    {
+      "text": "Ronneberger O, 2015, LECT NOTES COMPUT SC, V9351, P234",
+      "count": 464,
+      "year": 2015
+    },
+    {
+      "text": "Coppin P, 2004, REMOTE SENS ENVIRON, V39, P1",
+      "count": 453,
+      "year": 2004
+    },
+    {
+      "text": "Vaswani A, 2017, ADV NEUR INF PROC, V30, P5998",
+      "count": 446,
+      "year": 2017
+    },
+    {
+      "text": "Lu D, 2004, INT J REMOTE SENS, V25, P2365",
+      "count": 438,
+      "year": 2004
+    },
+    {
+      "text": "Zhu Z, 2014, REMOTE SENS ENVIRON, V144, P152",
+      "count": 429,
+      "year": 2014
+    },
+    {
+      "text": "Bruzzone L, 2000, IEEE T GEOSCI REMOTE, V38, P1171",
+      "count": 427,
+      "year": 2000
+    },
+    {
+      "text": "He K, 2016, PROC CVPR, V0, P770",
+      "count": 410,
+      "year": 2016
+    },
+    {
+      "text": "Krizhevsky A, 2012, ADV NEUR INF PROC, V25, P1097",
+      "count": 405,
+      "year": 2012
+    },
+    {
+      "text": "Singh A, 1989, INT J REMOTE SENS, V10, P989",
+      "count": 391,
+      "year": 1989
+    },
+    {
+      "text": "Woodcock CE, 2008, REMOTE SENS ENVIRON, V112, P1839",
+      "count": 389,
+      "year": 2008
+    },
+    {
+      "text": "Hussain M, 2013, REMOTE SENS ENVIRON, V130, P197",
+      "count": 388,
+      "year": 2013
+    },
+    {
+      "text": "Zhu XX, 2017, IEEE GEOSCI REMOTE M, V5, P58",
+      "count": 377,
+      "year": 2017
+    }
+  ],
+  "country_pairs": [
+    {
+      "a": "China",
+      "b": "Germany",
+      "n": 209
+    },
+    {
+      "a": "China",
+      "b": "Italy",
+      "n": 123
+    },
+    {
+      "a": "China",
+      "b": "Netherlands",
+      "n": 99
+    },
+    {
+      "a": "China",
+      "b": "France",
+      "n": 77
+    },
+    {
+      "a": "China",
+      "b": "Japan",
+      "n": 70
+    },
+    {
+      "a": "China",
+      "b": "Sweden",
+      "n": 63
+    },
+    {
+      "a": "Canada",
+      "b": "China",
+      "n": 56
+    },
+    {
+      "a": "China",
+      "b": "India",
+      "n": 43
+    },
+    {
+      "a": "Germany",
+      "b": "Italy",
+      "n": 38
+    },
+    {
+      "a": "Germany",
+      "b": "Netherlands",
+      "n": 37
+    }
+  ],
+  "outputs": {
+    "figures": [
+      ".DS_Store",
+      "01_Documents_per_Year.png",
+      "02_Citations_per_Year.png",
+      "03_Bradford_s_Law_Core_Sources_1.png",
+      "04_Sources.png",
+      "05_figure.png",
+      "06_figure.png",
+      "07_figure.png",
+      "08_Term_Growth_Author_Keywords.png",
+      "09_Term_Growth_Bubble_Timeline_Author_Keywords.png",
+      "10_Sankey_Diagram_Countries_Authors_Journals.png",
+      "11_Distribution_of_b_Authors_b_per_b_Auhors_Keyw.png",
+      "12_figure.png",
+      "13_figure.png",
+      "14_Top_Cited_References.png",
+      "15_Citation_Trajectory_Analysis.png",
+      "16_Reference_Publication_Year_Spectroscopy_RPYS.png",
+      "17_figure.png",
+      "18_figure.png",
+      "19_figure.png",
+      "20_figure.png",
+      "22_b_Portfolio_Analysis_Sources_b_br_span_style_.png",
+      "23_b_Burst_Detection_Author_Keywords_b_br_span_s.png",
+      "24_b_Knowledge_Diffusion_Chord_Author_Keywords_b.png",
+      "25_figure.png",
+      "26_figure.png",
+      "27_figure.png",
+      "28_figure.png",
+      "29_Topics_Heatmap.png",
+      "30_Topic_Trends_Over_Time.png",
+      "31_figure.png",
+      "Exp2_01_wordcloud_abstract.png",
+      "Exp3_04_local_citation_historiograph.png",
+      "Exp4_01_collaboration_subgraphs.png",
+      "Exp4_02_network_degree.png",
+      "Exp4_03_network_betweenness.png"
+    ]
+  }
+}
