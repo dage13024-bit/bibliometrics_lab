@@ -7,4 +7,6 @@ venv/
 runtime_py/
 work/.hf/
 work/.mpl/
+/work/wos.bib
+/work/wos_part*.bib
 .~*

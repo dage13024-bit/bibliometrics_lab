@@ -146,14 +146,16 @@ TS=("building change detection" OR "urban change detection" OR "building extract
 
 ### （可选）合并多个 .bib 文件
 
-如果分批导出了 `wos_part1.bib` 和 `wos_part2.bib`，在项目目录下运行：
+如果分批导出了 `wos_part1.bib` 和 `wos_part2.bib`，在已激活项目虚拟环境的终端中，先进入仓库根目录，再运行：
 
 ```bash
-cd /Users/meilin/Desktop/bibliometrics_lab
+cd bibliometrics_lab
 cat work/wos_part1.bib work/wos_part2.bib > work/wos.bib
 ```
 
-pyBibX 读入时会自动去重（`del_duplicated=True`），所以**不用怕重复**。
+如果终端当前不在仓库所在位置，请先 `cd` 到 clone 下来的 `bibliometrics_lab` 目录。pyBibX 读入时会自动去重（`del_duplicated=True`），所以**不用怕重复**。
+
+> **数据保护：** `work/wos.bib` 和 `work/wos_part*.bib` 已被 Git 忽略。WOS 导出记录可能受学校订阅条款约束，不要将真实导出文件提交到公开仓库。
 
 ---
 
